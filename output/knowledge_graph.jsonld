@@ -1,0 +1,1624 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://aviperera.com/#avi-perera",
+      "name": "Avi Perera",
+      "jobTitle": "AI Governance Researcher & International Lawyer",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Sovereign Intelligence Dashboard"
+      },
+      "url": "https://aviperera.com",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q140248356",
+        "https://orcid.org/0009-0005-1903-6868",
+        "https://www.researchgate.net/profile/Avi-Perera",
+        "https://www.linkedin.com/in/avi-perera",
+        "https://bsky.app/profile/aviperera.bsky.social",
+        "https://x.com/aviperera_"
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/v-bat-mq-35/#article",
+      "headline": "V-BAT (MQ-35)",
+      "description": "Forensic analysis of Shield AI’s V-BAT (MQ-35): Hivemind autonomy, ViDAR sensor, targeting role, export, privacy law and international implications.",
+      "url": "https://aviperera.com/v-bat-mq-35/",
+      "datePublished": "2026-10-20T01:40:00",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/v-bat-mq-35/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/norinco-fuxi-and-nudt-combat-humanoids/#article",
+      "headline": "Norinco Fuxi and NUDT Combat Humanoids",
+      "description": "A forensic analysis of Norinco’s Fuxi teleoperated humanoid and the PLA’s NUDT combat humanoid research: specifications, urban assault concepts, IHL, sanctions and CCW talks.",
+      "url": "https://aviperera.com/norinco-fuxi-and-nudt-combat-humanoids/",
+      "datePublished": "2026-10-19T05:55:41",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/norinco-fuxi-and-nudt-combat-humanoids/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/fedor-skybot-f-850/#article",
+      "headline": "FEDOR Skybot F-850",
+      "description": "A forensic analysis of Russia’s FEDOR (Skybot F-850) humanoid: specifications, the 2017 pistol demonstration, ISS flight, autonomy, IHL, sanctions and Russia’s CCW position.",
+      "url": "https://aviperera.com/fedor-skybot-f-850/",
+      "datePublished": "2026-10-18T06:27:00",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/fedor-skybot-f-850/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/character-ai-bankruptcy/#article",
+      "headline": "Character.AI’s Bankruptcy Was Foreseeable: What the Collapse of an AI Companion Giant Means",
+      "description": "Character.AI has filed for Chapter 11 after a run of wrongful death and child safety claims. I set out why the filing was predictable, what the courts have and have not decided, and what the collapse ",
+      "url": "https://aviperera.com/character-ai-bankruptcy/",
+      "datePublished": "2026-10-17T12:44:47",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/character-ai-bankruptcy/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/hasan-execution-livestream-law/#article",
+      "headline": "US Execution Global Online Livestream and Law",
+      "description": "On 8 October 2026, the Pentagon confirmed that it intends to livestream the execution of Nidal Malik Hasan, the former Army major convicted of murdering 13 people at Fort Hood…",
+      "url": "https://aviperera.com/hasan-execution-livestream-law/",
+      "datePublished": "2026-10-16T19:02:23",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/hasan-execution-livestream-law/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/switchblade-300-600/#article",
+      "headline": "Switchblade 300 and 600 Loitering Munitions",
+      "description": "A forensic analysis of the US-supplied AeroVironment Switchblade 300 and 600: specifications, Ukraine and Taiwan, human control, IHL, arms transfer law and CCW talks.",
+      "url": "https://aviperera.com/switchblade-300-600/",
+      "datePublished": "2026-10-16T05:28:00",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/switchblade-300-600/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/abolish-columbus-day/#article",
+      "headline": "Abolishing Columbus Day: Genocide and historical reckoning",
+      "description": "A few days ago, the United States marked Columbus Day. On Friday the President hosted a celebration in the East Room and issued a proclamation praising Columbus as a hero…",
+      "url": "https://aviperera.com/abolish-columbus-day/",
+      "datePublished": "2026-10-15T13:02:22",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/abolish-columbus-day/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/alex-ballistic-protected-humanoid-ihmc/#article",
+      "headline": "Alex Ballistic-Protected Humanoid (IHMC)",
+      "description": "A forensic analysis of IHMC’s Alex, the US Army xTechHumanoid winner: specifications, ballistic protection, hybrid autonomy, IHL, US law and the 2026 CCW talks.",
+      "url": "https://aviperera.com/alex-ballistic-protected-humanoid-ihmc/",
+      "datePublished": "2026-10-15T05:43:00",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/alex-ballistic-protected-humanoid-ihmc/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/foundation-phantom-mk-1-and-mk-2/#article",
+      "headline": "Foundation Phantom MK-1 and MK-2",
+      "description": "A forensic analysis of Foundation’s Phantom MK-1 and MK-2 military humanoid robots: specifications, Ukraine trials, autonomy claims, IHL, US law and the 2026 CCW talks.",
+      "url": "https://aviperera.com/foundation-phantom-mk-1-and-mk-2/",
+      "datePublished": "2026-10-14T04:13:00",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/foundation-phantom-mk-1-and-mk-2/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/arcv-mule/#article",
+      "headline": "ARCV MULE",
+      "description": "A forensic analysis of the ARCV MULE, AeroArc’s Indian Army robot dog derived from the Ghost Robotics Vision 60: specifications, autonomy, IHL, Indian law and CCW politics.",
+      "url": "https://aviperera.com/arcv-mule/",
+      "datePublished": "2026-10-13T05:29:00",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/arcv-mule/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/unitree-b2-combat-mod/#article",
+      "headline": "Unitree B2 Combat Mod",
+      "description": "A forensic analysis of the weaponised Unitree B2 quadruped: verified specifications, PLA and Marine Corps armed trials, autonomy, IHL, export law and sanctions.",
+      "url": "https://aviperera.com/unitree-b2-combat-mod/",
+      "datePublished": "2026-10-12T05:41:00",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/unitree-b2-combat-mod/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/dating-apps-loneliness-extremism/#article",
+      "headline": "Dating Apps, Loneliness and the Pipeline to Extremism",
+      "description": "Dating apps borrowed ranking logic from chess and video games. What happens when that logic meets loneliness, recommender systems and the manosphere?",
+      "url": "https://aviperera.com/dating-apps-loneliness-extremism/",
+      "datePublished": "2026-10-11T05:46:00",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/dating-apps-loneliness-extremism/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/vision-60-q-ugv/#article",
+      "headline": "Vision 60 Q-UGV",
+      "description": "A forensic technical and legal analysis of Ghost Robotics’ Vision 60 Q-UGV robot dog: specifications, armed variants, autonomy, IHL, exports and the 2026 CCW talks.",
+      "url": "https://aviperera.com/vision-60-q-ugv/",
+      "datePublished": "2026-10-10T07:10:00",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/vision-60-q-ugv/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/mq-9-reaper/#article",
+      "headline": "MQ-9 Reaper",
+      "description": "A forensic technical and legal analysis of the MQ-9 Reaper: specifications, combat record, IHL, accountability, 2026 Iran war losses and AI autonomy.",
+      "url": "https://aviperera.com/mq-9-reaper/",
+      "datePublished": "2026-10-09T11:49:13",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/mq-9-reaper/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/abliteration-ai-removing-guardrails-international-security/#article",
+      "headline": "Abliteration.ai and the End of the Guardrail Assumption: What It Means for International Security",
+      "description": "Abliteration.ai sells AI models with safety guardrails removed. An international security analysis of what it means for AI governance, law and arms control.",
+      "url": "https://aviperera.com/abliteration-ai-removing-guardrails-international-security/",
+      "datePublished": "2026-10-08T10:13:29",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/abliteration-ai-removing-guardrails-international-security/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/astrology-is-prejudice/#article",
+      "headline": "Why Astrology Is a Form of Prejudice: The Same Bias in a Softer Costume",
+      "description": "Astrology and racism run on the same cognitive engine: sorting people into fixed categories by something they never chose. Here’s the evidence.",
+      "url": "https://aviperera.com/astrology-is-prejudice/",
+      "datePublished": "2026-10-03T21:32:37",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/astrology-is-prejudice/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/magnifica-humanitas-ai-encyclical-commentary/#article",
+      "headline": "Magnifica Humanitas: Reading Pope Leo XIV’s AI Encyclical",
+      "description": "An AI governance researcher and international lawyer reads Pope Leo XIV’s first encyclical, Magnifica Humanitas, on AI, autonomous weapons and truth.",
+      "url": "https://aviperera.com/magnifica-humanitas-ai-encyclical-commentary/",
+      "datePublished": "2026-10-03T09:49:10",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/magnifica-humanitas-ai-encyclical-commentary/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/the-thucydides-trap-returns-what-xi-told-trump-in-the-oval-office-and-what-washington-chose-not-to-hear/#article",
+      "headline": "The Thucydides Trap Returns: What Xi Told Trump in the Oval Office, and What Washington Chose Not to Hear",
+      "description": "When Xi Jinping told Donald Trump that “the Thucydides Trap can be overcome,” he was not offering diplomatic small talk. He was issuing a carefully calibrated statement about the trajectory…",
+      "url": "https://aviperera.com/the-thucydides-trap-returns-what-xi-told-trump-in-the-oval-office-and-what-washington-chose-not-to-hear/",
+      "datePublished": "2026-10-02T09:30:21",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/the-thucydides-trap-returns-what-xi-told-trump-in-the-oval-office-and-what-washington-chose-not-to-hear/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/disarmament-toolkit-2026-reflections/#article",
+      "headline": "Disarmament Toolkit 2026: What UNRCPD Taught Me About Autonomous Weapons, and What It Wouldn’t Name",
+      "description": "This is the second consecutive year I have sat through the United Nations Regional Centre for Peace and Disarmament in Asia and the Pacific’s flagship course, the Disarmament Toolkit, first…",
+      "url": "https://aviperera.com/disarmament-toolkit-2026-reflections/",
+      "datePublished": "2026-10-01T09:16:21",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/disarmament-toolkit-2026-reflections/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/autonomous-weapons-are-not-the-moral-choice/#article",
+      "headline": "Autonomous Weapons Are Not the Moral Choice",
+      "description": "Thomas X. Hammes argued in the Atlantic Council that fielding autonomous weapons is a moral imperative. The accountability record, the current state of the Geneva talks and recent warnings from AI res",
+      "url": "https://aviperera.com/autonomous-weapons-are-not-the-moral-choice/",
+      "datePublished": "2026-09-13T19:41:00",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/autonomous-weapons-are-not-the-moral-choice/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/un-2026-science-and-technology-report/#article",
+      "headline": "The Governance Gap: UN’s 2026 Science and Technology Report",
+      "description": "Every July, a fairly unglamorous document lands on the desks of UN Member State delegations. It has none of the drama of a Security Council resolution or the visibility of…",
+      "url": "https://aviperera.com/un-2026-science-and-technology-report/",
+      "datePublished": "2026-09-12T09:11:00",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/un-2026-science-and-technology-report/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/the-wonderful-world-of-context/#article",
+      "headline": "The Wonderful World of Context",
+      "description": "First of all, I don’t think you’ll find many people who would say everyone is literally equal in every regard. Usually, when people say all races are equal, they’re talking…",
+      "url": "https://aviperera.com/the-wonderful-world-of-context/",
+      "datePublished": "2026-09-09T04:24:00",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/the-wonderful-world-of-context/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/waic-2026-agentic-ai-safety-forum-analysis/#article",
+      "headline": "WAIC 2026: Shanghai’s Agentic AI Safety Forum",
+      "description": "A close read of Concordia AI’s Shanghai forum — where Bengio, Gill, and China’s leading safety researchers mapped agentic AI’s loss-of-control risk, and why it should worry LAWS watchers too.",
+      "url": "https://aviperera.com/waic-2026-agentic-ai-safety-forum-analysis/",
+      "datePublished": "2026-08-31T03:34:37",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/waic-2026-agentic-ai-safety-forum-analysis/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/the-new-colonisers-how-the-digital-nomad-economy-is-recolonising-the-global-south/#article",
+      "headline": "The New Colonisers: How the Digital Nomad Economy Is Recolonising the Global South",
+      "description": "Usually I don’t watch much YouTube these days, and I’m highly cautious and skeptical of what I do watch online. However this video by Moon called “Bali: Everything Wrong With…",
+      "url": "https://aviperera.com/the-new-colonisers-how-the-digital-nomad-economy-is-recolonising-the-global-south/",
+      "datePublished": "2026-08-29T19:54:07",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/the-new-colonisers-how-the-digital-nomad-economy-is-recolonising-the-global-south/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/mearsheimer-iran-war-2026-analysis/#article",
+      "headline": "Four Objectives, Zero Wins: Mearsheimer’s Reckoning With America’s Iran War",
+      "description": "John Mearsheimer’s July 2026 assessment of the Iran war — four failed objectives, a lost Strait of Hormuz, a fracturing Gulf alliance, and a war Washington can’t afford to keep fighting.",
+      "url": "https://aviperera.com/mearsheimer-iran-war-2026-analysis/",
+      "datePublished": "2026-08-08T07:03:29",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/mearsheimer-iran-war-2026-analysis/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/when-algorithms-go-to-war/#article",
+      "headline": "When Algorithms Go to War: Inside the New Military-AI-Industrial Complex",
+      "description": "A research analysis of the PAX and Privacy International report — from a Geneva conference room to the boardrooms of Silicon Valley",
+      "url": "https://aviperera.com/when-algorithms-go-to-war/",
+      "datePublished": "2026-07-31T11:09:47",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/when-algorithms-go-to-war/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/the-algorithms-kill-chain-the-future-of-military-ai/#article",
+      "headline": "The Algorithm’s Kill Chain: The Future of Military AI",
+      "description": "As world leaders gathered in Geneva for the June 2026 Informal Exchange on AI in the Military Domain, a dark reality solidified: technology is outstripping international law. From tech giants abandoni",
+      "url": "https://aviperera.com/the-algorithms-kill-chain-the-future-of-military-ai/",
+      "datePublished": "2026-07-10T15:35:09",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/the-algorithms-kill-chain-the-future-of-military-ai/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/schema-sovereignty-ai-citations-schema-seo/#article",
+      "headline": "Schema Sovereignty & AI Citations: Death of Blue Links",
+      "description": "Page-one ranking is no longer about the top ten blue links—it is about winning generative AI citations. As search engines shift from indexing keywords to understanding entities, unstructured data face",
+      "url": "https://aviperera.com/schema-sovereignty-ai-citations-schema-seo/",
+      "datePublished": "2026-07-09T15:16:56",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/schema-sovereignty-ai-citations-schema-seo/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/parallel-diffusion-gemma-encoder-free-developer-stack/#article",
+      "headline": "Parallelism Over Pixels: Why the Encoder-Free 12B and DiffusionGemma are Rebuilding the Developer Stack",
+      "description": "Is your local hardware sitting underutilised? Sequential text generation is hit by a fundamental memory-bandwidth bottleneck. With the advent of discrete text diffusion models like DiffusionGemma and ",
+      "url": "https://aviperera.com/parallel-diffusion-gemma-encoder-free-developer-stack/",
+      "datePublished": "2026-07-08T14:38:49",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/parallel-diffusion-gemma-encoder-free-developer-stack/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/un-playbook-autonomous-warfare-lessons/#article",
+      "headline": "Inside the UN Playbook for Algorithmic Warfare",
+      "description": "The speed of military AI is outstripping international law. The UNIDIR Scenario Compendium offers a practical blueprint for the era of lethal autonomous weapons. Discover 5 surprising lessons shifting",
+      "url": "https://aviperera.com/un-playbook-autonomous-warfare-lessons/",
+      "datePublished": "2026-07-07T13:38:31",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/un-playbook-autonomous-warfare-lessons/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/autonomous-weapons-ethics-accountability-gap/#article",
+      "headline": "The Ghost in the Code: Why Autonomous Weapons Defy Human Law",
+      "description": "The rise of Autonomous Weapons Systems (AWS) marks a seismic shift to “algorithmic warfare.” When machines independently decide who lives and dies, traditional legal frameworks glitch. Explore the uns",
+      "url": "https://aviperera.com/autonomous-weapons-ethics-accountability-gap/",
+      "datePublished": "2026-07-06T13:10:39",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/autonomous-weapons-ethics-accountability-gap/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/fix-antigravity-2-rollback-guide/#article",
+      "headline": "Surviving the Antigravity 2.0 Update: How Google Broke My Workflow (And How to Fix It)",
+      "description": "I was right in the middle of a serious coding session when, without warning, my entire development environment was hijacked. My familiar code editor, file tree, and integrated terminal vanished,…",
+      "url": "https://aviperera.com/fix-antigravity-2-rollback-guide/",
+      "datePublished": "2026-06-05T15:31:19",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/fix-antigravity-2-rollback-guide/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/illusion-of-affordability-price-divergence/#article",
+      "headline": "The Illusion of Affordability: Why We Are Rich in Distractions and Poor in Sovereignty",
+      "description": "An unvarnished analysis of price divergence over the last 20 years based on Mark J. Perry’s Chart of the Century. Explore why critical services skyrocket while tech plummets.",
+      "url": "https://aviperera.com/illusion-of-affordability-price-divergence/",
+      "datePublished": "2026-06-04T06:21:40",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/illusion-of-affordability-price-divergence/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/smash-2000/#article",
+      "headline": "IDF SMASH 2000",
+      "description": "SMASH 2000: Technical Dossier & Legal Analysis Lead Paragraph: The SMASH 2000 is a “smart” fire control system developed by Smart Shooter, designed to be mounted on standard infantry rifles…",
+      "url": "https://aviperera.com/smash-2000/",
+      "datePublished": "2026-05-22T18:19:11",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/smash-2000/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/clearview-ai/#article",
+      "headline": "Clearview AI",
+      "description": "Clearview AI: Technical Dossier & Legal Analysis Lead Paragraph: Clearview AI is a facial recognition platform built upon an unprecedented database of billions of non-consensually scraped images from ",
+      "url": "https://aviperera.com/clearview-ai/",
+      "datePublished": "2026-05-21T18:09:46",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/clearview-ai/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/predpol-geolitica/#article",
+      "headline": "PredPol (Geolitica)",
+      "description": "PredPol (Geolitica): Technical Dossier & Legal Analysis Lead Paragraph: PredPol (recently rebranded as Geolitica before ceasing operations) was a predictive policing algorithm designed to forecast the",
+      "url": "https://aviperera.com/predpol-geolitica/",
+      "datePublished": "2026-05-20T18:02:13",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/predpol-geolitica/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/palantir-project-maven/#article",
+      "headline": "Palantir Project Maven",
+      "description": "Project Maven: Technical Dossier & Legal Analysis Lead Paragraph: Project Maven, formally known as the Algorithmic Warfare Cross-Functional Team, is a flagship U.S. Department of Defense initiative th",
+      "url": "https://aviperera.com/palantir-project-maven/",
+      "datePublished": "2026-05-19T16:43:51",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/palantir-project-maven/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/mq-28-ghost-bat/#article",
+      "headline": "MQ-28 Ghost Bat",
+      "description": "MQ-28 Ghost Bat: Technical Dossier & Legal Analysis Lead Paragraph: The MQ-28 Ghost Bat is an autonomous Unmanned Combat Aerial Vehicle (UCAV) developed by Boeing Australia, designed to act as…",
+      "url": "https://aviperera.com/mq-28-ghost-bat/",
+      "datePublished": "2026-05-18T16:36:15",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/mq-28-ghost-bat/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/meaningful-human-control-autonomous-weapons/#article",
+      "headline": "The Global Shell Game: What “Meaningful Human Control” Actually Means—and Why No One Agrees",
+      "description": "The battle for the future of global security is currently being waged over a single phrase: “meaningful human control”. Explore how lexical fissures and strategic ambiguity are shaping the lethal auto",
+      "url": "https://aviperera.com/meaningful-human-control-autonomous-weapons/",
+      "datePublished": "2026-05-15T10:39:15",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/meaningful-human-control-autonomous-weapons/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/consensus-trap-global-ban-killer-robots/#article",
+      "headline": "The Consensus Trap: How Five Nations Quietly Derailed the Global Ban on Killer Robots",
+      "description": "For over a decade, the international community has tried to regulate Lethal Autonomous Weapons Systems (LAWS). Explore how a small coalition has weaponized the UN consensus rule to block a global ban ",
+      "url": "https://aviperera.com/consensus-trap-global-ban-killer-robots/",
+      "datePublished": "2026-05-14T10:13:49",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/consensus-trap-global-ban-killer-robots/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/algorithmic-battlefield-ai-modern-warfare/#article",
+      "headline": "The Algorithmic Battlefield: 5 Takeaways from the Silent Revolution in Warfare",
+      "description": "As military powers integrate systems like Palantir and Project Nimbus into a “Digital Targeting Web,” human control over lethal force is vanishing. Explore 5 critical takeaways on how proprietary algo",
+      "url": "https://aviperera.com/algorithmic-battlefield-ai-modern-warfare/",
+      "datePublished": "2026-05-13T08:44:28",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/algorithmic-battlefield-ai-modern-warfare/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/palantir-gotham/#article",
+      "headline": "Palantir Gotham",
+      "description": "Palantir Gotham: Technical Dossier & Legal Analysis Lead Paragraph: Palantir Gotham is a foundational data integration and AI decision-support platform designed to fuse massive, disparate intelligence",
+      "url": "https://aviperera.com/palantir-gotham/",
+      "datePublished": "2026-05-12T16:32:21",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/palantir-gotham/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/lavender/#article",
+      "headline": "IDF Lavender",
+      "description": "Lavender: Technical Dossier & Legal Analysis Lead Paragraph: The Lavender system is an AI-driven Decision Support System (AI-DSS) developed by the Israel Defense Forces’ Unit 8200 to automate the gene",
+      "url": "https://aviperera.com/lavender/",
+      "datePublished": "2026-05-12T13:11:57",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/lavender/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/automated-us-immigration-system-dragnet/#article",
+      "headline": "The Digital Dragnet: 4 Surprising Ways the U.S. Immigration System Became a Fully Automated Machine",
+      "description": "The U.S. immigration system has shifted from judicial review to a fully automated machine. Explore four surprising ways digital dragnets, algorithms, and data brokers are fuelling mass deportation and",
+      "url": "https://aviperera.com/automated-us-immigration-system-dragnet/",
+      "datePublished": "2026-05-12T08:43:12",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/automated-us-immigration-system-dragnet/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/ai-warfare-20-second-kill-chain/#article",
+      "headline": "The 20-Second Kill Chain: 5 Chilling Realities of the New AI Warfare",
+      "description": "AI is dissolving the fog of war and replacing it with algorithmic certainty. Explore the 5 chilling realities of how automated targeting systems and the new “20-second kill chain” are removing human c",
+      "url": "https://aviperera.com/ai-warfare-20-second-kill-chain/",
+      "datePublished": "2026-05-07T16:48:36",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/ai-warfare-20-second-kill-chain/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/china-ai-agent-regulations-2026/#article",
+      "headline": "The Great AI Guardrail: 5 Surprising Lessons from China’s New Agent Regulations",
+      "description": "Discover 5 surprising lessons from China’s 2026 AI agent regulations. Learn how new laws tackle virtual companions, Machiavellian AI, and SkillJect attacks.",
+      "url": "https://aviperera.com/china-ai-agent-regulations-2026/",
+      "datePublished": "2026-05-06T13:48:37",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/china-ai-agent-regulations-2026/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/p-s-killer-kamikaze-drone/#article",
+      "headline": "P.S. Killer Kamikaze Drone",
+      "description": "P.S. Killer Kamikaze Drone The P.S. Killer Kamikaze (PSK) was developed by XDOWN, an American defense startup. The unmanned aerial system (UAS) is designed to be hand-thrown and is reportedly…",
+      "url": "https://aviperera.com/p-s-killer-kamikaze-drone/",
+      "datePublished": "2026-01-08T18:17:42",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/p-s-killer-kamikaze-drone/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/strix-vtol/#article",
+      "headline": "STRIX VTOL",
+      "description": "STRIX VTOL  First showcased in 2023, the STRIX VTOL UAS was developed through a collaboration between BAE Systems Australia and Innovaero, an Australian-based company. This unmanned system features ve",
+      "url": "https://aviperera.com/strix-vtol/",
+      "datePublished": "2026-01-08T18:15:15",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/strix-vtol/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/x5-attack-drone/#article",
+      "headline": "X5 Attack Drone",
+      "description": "The X5 Attack Drone was showcased at the Zhuhai Airshow in China at the end of 2024. Limited information is available about the drone, though reports indicate that it is…",
+      "url": "https://aviperera.com/x5-attack-drone/",
+      "datePublished": "2026-01-08T18:10:05",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/x5-attack-drone/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/veter-kamikaze-drone/#article",
+      "headline": "Veter Kamikaze Drone",
+      "description": "Veter Kamikaze Drone Various sources indicate that the Russian company Veter has delivered over 3,000 Veter Kamikaze (quadcopter) drones to Russian forces fighting in Ukraine. The company is reportedl",
+      "url": "https://aviperera.com/veter-kamikaze-drone/",
+      "datePublished": "2026-01-08T18:07:12",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/veter-kamikaze-drone/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/mbda-spear-3-missile-orchestrike-ai/#article",
+      "headline": "MBDA Spear-3 Missile – Orchestrike AI",
+      "description": "MBDA Spear-3 Missile – Orchestrike AI The SPEAR-3 missile has been in development since 2006. With the integration of the Orchestrike AI system, the missile is now reportedly capable of…",
+      "url": "https://aviperera.com/mbda-spear-3-missile-orchestrike-ai/",
+      "datePublished": "2026-01-08T18:03:21",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/mbda-spear-3-missile-orchestrike-ai/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/s-71m-attack-drone/#article",
+      "headline": "S-71M Attack Drone",
+      "description": "S-71M Attack Drone There is limited information on the S-71M attack drone. Russia has approved mass production, which may result in their deployment in Ukraine in the coming months. The…",
+      "url": "https://aviperera.com/s-71m-attack-drone/",
+      "datePublished": "2026-01-08T18:01:04",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/s-71m-attack-drone/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/s-70-okhotnik-b-hunter-autonomous-fighter/#article",
+      "headline": "S-70 Okhotnik-B (Hunter) Autonomous Fighter",
+      "description": "S-70 Okhotnik-B (Hunter) Autonomous Fighter The S-70 has been under development since at least 2011, with sources offering differing assessments of its current stage of progress. Reports indicate that",
+      "url": "https://aviperera.com/s-70-okhotnik-b-hunter-autonomous-fighter/",
+      "datePublished": "2026-01-08T17:58:48",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/s-70-okhotnik-b-hunter-autonomous-fighter/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/elbit-seagull-usv/#article",
+      "headline": "Elbit Seagull USV",
+      "description": "Elbit Seagull USV Elbit’s Seagull is an Unmanned Surface System (USS) armed with a 12.7mm remote-controlled weapon system, a torpedo launching system and a non-lethal weapon system. It is one…",
+      "url": "https://aviperera.com/elbit-seagull-usv/",
+      "datePublished": "2026-01-08T17:56:35",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/elbit-seagull-usv/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/kratos-utap-22-mako/#article",
+      "headline": "Kratos UTAP 22 Mako",
+      "description": "Kratos UTAP 22 Mako Kratos’ UTAP-22 Mako (Unmanned Tactical Aerial Platform) was designed as the unmanned (UAS) counterpart or wingman to manned warfighters. It was revealed in 2015. Basic Weapon…",
+      "url": "https://aviperera.com/kratos-utap-22-mako/",
+      "datePublished": "2026-01-08T17:53:29",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/kratos-utap-22-mako/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/anduril-altius-600/#article",
+      "headline": "Anduril Altius 600",
+      "description": "Anduril Altius 600 Anduril’s Altius series features Unmanned Aerial Systems (UAS) with a “loitering munition” function. Altius systems can be operated together as a networked swarm, combining differen",
+      "url": "https://aviperera.com/anduril-altius-600/",
+      "datePublished": "2026-01-08T17:51:19",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/anduril-altius-600/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/israel-aerospace-industries-harpy-uav/#article",
+      "headline": "Israel Aerospace Industries Harpy UAV",
+      "description": "Israel Aerospace Industries Harpy UAV IAI’s Harpy is an Unmanned Aerial System first operationalised in 1989 that has since undergone significant development. The New Generation (NG) Harpy is specific",
+      "url": "https://aviperera.com/israel-aerospace-industries-harpy-uav/",
+      "datePublished": "2026-01-08T17:48:21",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/israel-aerospace-industries-harpy-uav/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/rheinmetall-uvision-hero/#article",
+      "headline": "Rheinmetall Uvision HERO",
+      "description": "Rheinmetall Uvision HERO Rheinmetall and Uvision’s HERO is an Unmanned Aerial System (UAS) of the “loitering munition” type, which remains airborne for long periods of time to decide on the…",
+      "url": "https://aviperera.com/rheinmetall-uvision-hero/",
+      "datePublished": "2026-01-08T17:45:06",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/rheinmetall-uvision-hero/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/elbit-lanius-uav/#article",
+      "headline": "Elbit LANIUS UAV",
+      "description": "Elbit LANIUS UAV Elbit’s Lanius Unmanned Aerial System (UAS) is based on racing drone technology, and emphasizes speed and manoeuvrability. The small quadcopter is designed for kamikaze-style attacks ",
+      "url": "https://aviperera.com/elbit-lanius-uav/",
+      "datePublished": "2026-01-08T17:42:26",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/elbit-lanius-uav/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/kalashnikov-zala-lancet-3/#article",
+      "headline": "Kalashnikov ZALA Lancet-3",
+      "description": "Kalashnikov ZALA Lancet-3  Russian Federation Unmanned Aerial System04-03-2024 ZALA’s Lancet is an Unmanned Aerial System (UAS) unveiled in 2019. The lightweight system performs kamikaze-style attacks",
+      "url": "https://aviperera.com/kalashnikov-zala-lancet-3/",
+      "datePublished": "2026-01-08T17:40:15",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/kalashnikov-zala-lancet-3/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/stm-kargu-2-uav/#article",
+      "headline": "STM Kargu-2 UAV",
+      "description": "STM Kargu-2: Technical Dossier and Legal Analysis STM’s Kargu-2 is a quadcopter Unmanned Aerial System (UAS) with extensive autonomous strike capabilities. The Kargu-2 was initially designed as a reco",
+      "url": "https://aviperera.com/stm-kargu-2-uav/",
+      "datePublished": "2026-01-08T17:37:24",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/stm-kargu-2-uav/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/kalashnikov-kyb/#article",
+      "headline": "Kalashnikov KYB",
+      "description": "Kalashnikov KYB In February 2019, Kalashnikov Group introduced the new Unmanned Aerial System (UAS) KYB-UAV, in collaboration with ZALA AERO GROUP. It can detect and attack various targets autonomousl",
+      "url": "https://aviperera.com/kalashnikov-kyb/",
+      "datePublished": "2026-01-08T17:34:06",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/kalashnikov-kyb/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/norinco-sharp-claw/#article",
+      "headline": "Norinco Sharp Claw",
+      "description": "Norinco Sharp Claw China North Industries Incorporated (NORINCO) revealed the Sharp Claw I at the 2014 Airshow China in Zuhai. The “mini” Unmanned Ground System (UGS) is in active use,…",
+      "url": "https://aviperera.com/norinco-sharp-claw/",
+      "datePublished": "2026-01-08T17:31:57",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/norinco-sharp-claw/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/hanwha-arion-smet/#article",
+      "headline": "Hanwha Arion-SMET",
+      "description": "Hanwha Arion-SMET At the military airshow ADEX 2023, South Korean company Hanwha unveiled a new Unmanned Ground System (UGS) called the Arion-SMET. The system is designed to provide various support…",
+      "url": "https://aviperera.com/hanwha-arion-smet/",
+      "datePublished": "2026-01-08T17:28:53",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/hanwha-arion-smet/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/anduril-roadrunner/#article",
+      "headline": "Anduril Roadrunner",
+      "description": "Anduril Roadrunner Anduril Industries in the US has developed a reusable Unmanned Aerial System (UAS) called Roadrunner, alongside a faster Roadrunner-M option with heavier explosives. The system can ",
+      "url": "https://aviperera.com/anduril-roadrunner/",
+      "datePublished": "2026-01-08T17:25:48",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/anduril-roadrunner/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/elbit-skystriker/#article",
+      "headline": "Elbit Skystriker",
+      "description": "Elbit Skystriker Skystriker is a Loitering Munition / Unmanned Aerial System (UAS) manufactured by Israeli company Elbit Systems. Revealed in 2017 at the Paris Air Show and confirmed in operation…",
+      "url": "https://aviperera.com/elbit-skystriker/",
+      "datePublished": "2026-01-08T17:21:10",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/elbit-skystriker/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/un-vote-autonomous-weapons-us-russia-alliance/#article",
+      "headline": "The 5 Against the World: Why the US, Russia, and North Korea Just United to Protect “Killer Robots”",
+      "description": "On November 6, 2025, the mask of the “Rules-Based Order” slipped. In a stunning UN vote on Lethal Autonomous Weapons (Resolution L.41), the United States didn’t lead the free world—it joined a coaliti",
+      "url": "https://aviperera.com/un-vote-autonomous-weapons-us-russia-alliance/",
+      "datePublished": "2025-12-03T22:39:07",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/un-vote-autonomous-weapons-us-russia-alliance/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/myth-of-the-third-world/#article",
+      "headline": "The Myth of the “Third World”: Why We Must Abandon the Language of Empire",
+      "description": "1. Introduction: The Violence of Nomenclature The act of naming is never a neutral linguistic exercise; it is an exercise in power. To categorise a nation, a people, or a…",
+      "url": "https://aviperera.com/myth-of-the-third-world/",
+      "datePublished": "2025-11-29T17:30:03",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/myth-of-the-third-world/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/hypocrisy-of-ignorance-thailand-stereotypes/#article",
+      "headline": "Two Years in Thailand, and the Idiocracy I Refuse to Entertain",
+      "description": "I moved to Thailand and found paradise, but I also found a relentless barrage of ignorance. In this post, I use hard data to dismantle the ‘ladyboy’ and ‘red-light’ stereotypes, proving that the count",
+      "url": "https://aviperera.com/hypocrisy-of-ignorance-thailand-stereotypes/",
+      "datePublished": "2025-11-27T18:38:52",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/hypocrisy-of-ignorance-thailand-stereotypes/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/from-triads-to-scam-states-the-political-economy-of-industrial%e2%80%91scale-cyber-fraud-drug-production-and-forced-criminality-in-mainland-southeast-asia-2012/#article",
+      "headline": "From “Triads” to “Scam States”: The political economy of industrial‑scale cyber fraud, drug production, and forced criminality in mainland Southeast Asia, 2012–2025",
+      "description": "Films like Kill Bill and John Wick popularise a romanticised image of Asian organised crime built around codes of honour and tightly knit brotherhoods. Across the Mekong subregion today, especially…",
+      "url": "https://aviperera.com/from-triads-to-scam-states-the-political-economy-of-industrial%e2%80%91scale-cyber-fraud-drug-production-and-forced-criminality-in-mainland-southeast-asia-2012/",
+      "datePublished": "2025-11-26T14:35:30",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/from-triads-to-scam-states-the-political-economy-of-industrial%e2%80%91scale-cyber-fraud-drug-production-and-forced-criminality-in-mainland-southeast-asia-2012/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/disarmament-nuclear-risks-youth-ai-in-warfare/#article",
+      "headline": "Disarmament: Nuclear Risks, Youth & AI in Warfare",
+      "description": "Session 6 tackled nuclear risk, AI in warfare, gender, climate, and youth leadership. Insights from UNRCPD and the Disarmament Toolkit 2025.",
+      "url": "https://aviperera.com/disarmament-nuclear-risks-youth-ai-in-warfare/",
+      "datePublished": "2025-09-22T21:45:05",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/disarmament-nuclear-risks-youth-ai-in-warfare/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/disarmament-toolkit-2025-gender-militarisation-human-security/#article",
+      "headline": "Disarmament: Gender, Militarisation & Human Security",
+      "description": "Insights from Session 5 of the Disarmament Toolkit 2025: gendered impacts of war, mercenary recruitment, and why peace must be people-centered.",
+      "url": "https://aviperera.com/disarmament-toolkit-2025-gender-militarisation-human-security/",
+      "datePublished": "2025-09-22T21:32:03",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/disarmament-toolkit-2025-gender-militarisation-human-security/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/un-disarmament-toolkit-2025-landmines-salw-arms-control/#article",
+      "headline": "UN Disarmament Toolkit 2025: Landmines, SALW & Arms Control",
+      "description": "Session 4 explored mine action, small arms & light weapons, illicit trafficking, gender data, and how UN frameworks adapt under pressure.",
+      "url": "https://aviperera.com/un-disarmament-toolkit-2025-landmines-salw-arms-control/",
+      "datePublished": "2025-09-11T12:56:32",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/un-disarmament-toolkit-2025-landmines-salw-arms-control/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/global-security-at-the-un-space-military-ai-cyber-challenges/#article",
+      "headline": "Global Security at the UN: Space, Military AI & Cyber Challenges",
+      "description": "Highlights from UN Disarmament Toolkit 2025 Session 3: outer space security, military AI, Northeast Asia tensions, and evolving cyber governance.",
+      "url": "https://aviperera.com/global-security-at-the-un-space-military-ai-cyber-challenges/",
+      "datePublished": "2025-09-06T19:35:24",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/global-security-at-the-un-space-military-ai-cyber-challenges/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/from-imposter-syndrome-to-evidence-why-my-once-upon-a-time-ig-story-hit-home/#article",
+      "headline": "From Imposter Syndrome to Evidence: Why My “Once upon a time…” IG Story Hit Home",
+      "description": "I shared a short IG story about imposter syndrome and unexpected validation. Here’s why it resonated, and how I’m showing up differently from now on.",
+      "url": "https://aviperera.com/from-imposter-syndrome-to-evidence-why-my-once-upon-a-time-ig-story-hit-home/",
+      "datePublished": "2025-09-03T07:28:40",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/from-imposter-syndrome-to-evidence-why-my-once-upon-a-time-ig-story-hit-home/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/im-back-why-i-was-quiet-what-i-learned-and-whats-next/#article",
+      "headline": "I’m Back! Why I Was Quiet, What I Learned, and What’s Next",
+      "description": "After a year of visas, Cambridge studies and UN work, I’m restarting the blog with essays on AI, policy, travel, productivity, and honest personal writing.",
+      "url": "https://aviperera.com/im-back-why-i-was-quiet-what-i-learned-and-whats-next/",
+      "datePublished": "2025-08-12T04:22:35",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/im-back-why-i-was-quiet-what-i-learned-and-whats-next/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/airesources/#article",
+      "headline": "The Definitive AI Resources Repository",
+      "description": "A curated compilation of artificial intelligence resources, selected to assist with research, governance, education, creativity, and productivity. This repository synthesises perspectives from world-l",
+      "url": "https://aviperera.com/airesources/",
+      "datePublished": "2024-11-18T15:55:25",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/airesources/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/the-science-and-methodology-of-electoral-forecasting-analysing-predictive-models-in-american-presidential-elections/#article",
+      "headline": "The Science and Methodology of Electoral Forecasting: Analysing Predictive Models in American Presidential Elections",
+      "description": "Electoral forecasting represents one of the most complex challenges in political science, combining quantitative analysis with qualitative assessment of numerous variables that influence voter behavio",
+      "url": "https://aviperera.com/the-science-and-methodology-of-electoral-forecasting-analysing-predictive-models-in-american-presidential-elections/",
+      "datePublished": "2024-11-05T07:41:04",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/the-science-and-methodology-of-electoral-forecasting-analysing-predictive-models-in-american-presidential-elections/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/why-nations-fail-daron-acemoglu-and-james-a-robinson-book-summary-notes-highlights/#article",
+      "headline": "Why Nations Fail (Daron Acemoglu and James A. Robinson) – Book Summary, Notes & Highlights",
+      "description": "Discover Why Nations Fail by Daron Acemoglu and James A. Robinson, an insightful analysis of how institutions shape the prosperity or poverty of nations. Learn why inclusive institutions foster succes",
+      "url": "https://aviperera.com/why-nations-fail-daron-acemoglu-and-james-a-robinson-book-summary-notes-highlights/",
+      "datePublished": "2024-11-04T07:27:16",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/why-nations-fail-daron-acemoglu-and-james-a-robinson-book-summary-notes-highlights/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/my-experience-with-jstors-new-ai-research-tool-a-cambridge-students-review/#article",
+      "headline": "My Experience with JSTOR’s New AI Research Tool: A Cambridge Student’s Review",
+      "description": "Discover a Cambridge student’s hands-on review of JSTOR’s AI research tool beta. Learn how this innovative tool transforms academic research with smart features and time-saving capabilities.",
+      "url": "https://aviperera.com/my-experience-with-jstors-new-ai-research-tool-a-cambridge-students-review/",
+      "datePublished": "2024-11-03T15:34:08",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/my-experience-with-jstors-new-ai-research-tool-a-cambridge-students-review/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/ai-governance-frameworks-a-comparative-analysis/#article",
+      "headline": "AI Governance Frameworks: A Comparative Analysis",
+      "description": "Explore a detailed comparison of global AI governance frameworks, including the EU AI Act, US AI Bill of Rights, and other key regulatory approaches shaping the future of artificial intelligence.",
+      "url": "https://aviperera.com/ai-governance-frameworks-a-comparative-analysis/",
+      "datePublished": "2024-11-02T14:48:09",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/ai-governance-frameworks-a-comparative-analysis/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/the-role-of-diversity-in-mitigating-ai-bias/#article",
+      "headline": "The Role of Diversity in Mitigating AI Bias",
+      "description": "Discover how diversity in AI development teams and datasets helps combat algorithmic bias. Learn practical strategies for creating more inclusive AI systems in 2024 and beyond.",
+      "url": "https://aviperera.com/the-role-of-diversity-in-mitigating-ai-bias/",
+      "datePublished": "2024-11-01T04:29:57",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/the-role-of-diversity-in-mitigating-ai-bias/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/best-ai-policy-frameworks-for-ethical-governance-in-2024/#article",
+      "headline": "Best AI Policy Frameworks for Ethical Governance in 2024",
+      "description": "Discover the top AI policy frameworks shaping ethical AI governance in 2024. Explore comprehensive strategies to ensure responsible AI development and deployment across global industries.",
+      "url": "https://aviperera.com/best-ai-policy-frameworks-for-ethical-governance-in-2024/",
+      "datePublished": "2024-10-31T13:31:44",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/best-ai-policy-frameworks-for-ethical-governance-in-2024/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/ai-ethics-case-studies-lessons-learned-from-real-world-failures/#article",
+      "headline": "AI Ethics Case Studies: Lessons Learned from Real-World Failures",
+      "description": "Explore critical AI ethics case studies examining real-world failures, legal implications, and essential lessons for responsible AI development. Learn from historical mistakes to build better AI syste",
+      "url": "https://aviperera.com/ai-ethics-case-studies-lessons-learned-from-real-world-failures/",
+      "datePublished": "2024-10-30T03:27:31",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/ai-ethics-case-studies-lessons-learned-from-real-world-failures/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/ai-fairness-ensuring-equitable-outcomes-across-demographics-2024-guide/#article",
+      "headline": "AI Fairness: Ensuring Equitable Outcomes Across Demographics",
+      "description": "Discover comprehensive strategies for implementing AI fairness across demographics, including legal frameworks, technical solutions, and best practices for ensuring equitable artificial intelligence o",
+      "url": "https://aviperera.com/ai-fairness-ensuring-equitable-outcomes-across-demographics-2024-guide/",
+      "datePublished": "2024-10-29T03:56:13",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/ai-fairness-ensuring-equitable-outcomes-across-demographics-2024-guide/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/top-5-ai-ethics-courses-for-professionals/#article",
+      "headline": "Top 5 AI Ethics Courses for Professionals",
+      "description": "Discover the best AI ethics courses of 2024 that will enhance your professional expertise in responsible AI development, governance, and implementation. Learn from top institutions and industry expert",
+      "url": "https://aviperera.com/top-5-ai-ethics-courses-for-professionals/",
+      "datePublished": "2024-10-28T12:55:51",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/top-5-ai-ethics-courses-for-professionals/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/ai-in-healthcare-balancing-innovation-and-patient-rights/#article",
+      "headline": "AI in Healthcare: Balancing Innovation and Patient Rights",
+      "description": "Explore the transformative impact of AI in healthcare, from diagnostic tools to patient data protection. Learn how medical institutions balance cutting-edge innovation with ethical considerations and ",
+      "url": "https://aviperera.com/ai-in-healthcare-balancing-innovation-and-patient-rights/",
+      "datePublished": "2024-10-27T08:05:55",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/ai-in-healthcare-balancing-innovation-and-patient-rights/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/the-role-of-ethics-review-boards-in-ai-research-and-development/#article",
+      "headline": "The Role of Ethics Review Boards in AI Research and Development",
+      "description": "After meeting someone who served on multiple AI ethics review boards over the past decade, including the European AI Ethics Council and two major tech companies’ ethics committees, I’ve learned…",
+      "url": "https://aviperera.com/the-role-of-ethics-review-boards-in-ai-research-and-development/",
+      "datePublished": "2024-10-26T07:54:47",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/the-role-of-ethics-review-boards-in-ai-research-and-development/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/ai-and-copyright-navigating-intellectual-property-in-the-age-of-machine-creativity/#article",
+      "headline": "AI and Copyright: Navigating Intellectual Property in the Age of Machine Creativity",
+      "description": "Having spent years reading about intellectual property law and artificial intelligence, I’ve watched with fascination as AI has transformed from a theoretical challenge to a practical concern in copyr",
+      "url": "https://aviperera.com/ai-and-copyright-navigating-intellectual-property-in-the-age-of-machine-creativity/",
+      "datePublished": "2024-10-25T07:44:03",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/ai-and-copyright-navigating-intellectual-property-in-the-age-of-machine-creativity/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/ethical-ai-in-recruitment-ensuring-fair-hiring-practices-in-2024/#article",
+      "headline": "Ethical AI in Recruitment: Ensuring Fair Hiring Practices",
+      "description": "As someone who’s spent years researching law and artificial intelligence, I’ve witnessed first-hand the remarkable transformation of recruitment practices. Back in 2020, I remember advising a FTSE 100",
+      "url": "https://aviperera.com/ethical-ai-in-recruitment-ensuring-fair-hiring-practices-in-2024/",
+      "datePublished": "2024-10-24T07:26:56",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/ethical-ai-in-recruitment-ensuring-fair-hiring-practices-in-2024/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/the-impact-of-ai-on-employment-navigating-the-shifting-job-landscape-in-2024/#article",
+      "headline": "The Impact of AI on Employment: Navigating the Shifting Job Landscape",
+      "description": "Discover how AI is transforming the job market in 2024. Learn which careers are at risk, which are emerging, and how to future-proof your career in the age of artificial intelligence.",
+      "url": "https://aviperera.com/the-impact-of-ai-on-employment-navigating-the-shifting-job-landscape-in-2024/",
+      "datePublished": "2024-10-23T06:28:18",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/the-impact-of-ai-on-employment-navigating-the-shifting-job-landscape-in-2024/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/implementing-ethical-ai-in-small-businesses-a-practical-guide-2024/#article",
+      "headline": "Implementing Ethical AI in Small Businesses: A Practical Guide (2024)",
+      "description": "Discover how to implement ethical AI in your small business with our comprehensive 2024 guide. Learn practical steps, best practices, and key considerations for responsible AI adoption.",
+      "url": "https://aviperera.com/implementing-ethical-ai-in-small-businesses-a-practical-guide-2024/",
+      "datePublished": "2024-10-22T06:17:42",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/implementing-ethical-ai-in-small-businesses-a-practical-guide-2024/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/best-ai-ethics-training-programs-for-corporations-a-2024-guide/#article",
+      "headline": "Best AI Ethics Training Programs for Corporations: A 2024 Guide",
+      "description": "Discover the top AI ethics training programs for corporations in 2024. Learn how to implement comprehensive ethical AI frameworks and foster responsible AI adoption across your organization.",
+      "url": "https://aviperera.com/best-ai-ethics-training-programs-for-corporations-a-2024-guide/",
+      "datePublished": "2024-10-21T06:07:39",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/best-ai-ethics-training-programs-for-corporations-a-2024-guide/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/best-ai-regulatory-compliance-tools-for-businesses-2024/#article",
+      "headline": "Best AI Regulatory Compliance Tools for Businesses (2024)",
+      "description": "Discover the top AI regulatory compliance tools for 2024. Learn how to navigate complex AI regulations with cutting-edge solutions that keep your business compliant and competitive.",
+      "url": "https://aviperera.com/best-ai-regulatory-compliance-tools-for-businesses-2024/",
+      "datePublished": "2024-10-20T06:06:13",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/best-ai-regulatory-compliance-tools-for-businesses-2024/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/the-perfection-trap-thomas-curran-book-summary-notes-highlights/#article",
+      "headline": "The Perfection Trap (Thomas Curran) – Book Summary, Notes & Highlights",
+      "description": "Explore The Perfection Trap by Thomas Curran, a powerful examination of how perfectionism affects mental health and success. Learn practical strategies to break free from societal pressures and embrac",
+      "url": "https://aviperera.com/the-perfection-trap-thomas-curran-book-summary-notes-highlights/",
+      "datePublished": "2024-10-19T06:03:42",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/the-perfection-trap-thomas-curran-book-summary-notes-highlights/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/superintelligence-nick-bostrom-book-summary-notes-highlights/#article",
+      "headline": "Superintelligence (Nick Bostrom) – Book Summary, Notes & Highlights",
+      "description": "Discover Superintelligence by Nick Bostrom, a pioneering exploration of the risks posed by future AI systems surpassing human intelligence. Learn about the challenges in controlling AI and ensuring it",
+      "url": "https://aviperera.com/superintelligence-nick-bostrom-book-summary-notes-highlights/",
+      "datePublished": "2024-10-18T08:26:00",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/superintelligence-nick-bostrom-book-summary-notes-highlights/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/finite-and-infinite-games-a-multidisciplinary-analysis/#article",
+      "headline": "Finite and Infinite Games: A Multidisciplinary Analysis",
+      "description": "1. Introduction The concepts of finite and infinite games, introduced by James P. Carse in his 1986 book “Finite and Infinite Games,” provide a powerful framework for understanding various aspects…",
+      "url": "https://aviperera.com/finite-and-infinite-games-a-multidisciplinary-analysis/",
+      "datePublished": "2024-10-17T17:17:19",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/finite-and-infinite-games-a-multidisciplinary-analysis/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/human-compatible-stuart-russell-book-summary-notes-highlights/#article",
+      "headline": "Human Compatible (Stuart Russell) – Book Summary, Notes & Highlights",
+      "description": "Dive into Human Compatible by Stuart Russell, an essential read on AI safety. Discover how to design AI systems that align with human values, ensuring they remain beneficial and under human control as",
+      "url": "https://aviperera.com/human-compatible-stuart-russell-book-summary-notes-highlights/",
+      "datePublished": "2024-10-16T07:11:19",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/human-compatible-stuart-russell-book-summary-notes-highlights/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/the-alignment-problem-machine-learning-and-human-values-comprehensive-book-summary/#article",
+      "headline": "The Alignment Problem (Brian Christian) – Book Summary, Notes & Highlights",
+      "description": "Discover The Alignment Problem by Brian Christian, a thought-provoking exploration of the ethical challenges in AI. Learn how misaligned AI objectives can have profound consequences, making this book ",
+      "url": "https://aviperera.com/the-alignment-problem-machine-learning-and-human-values-comprehensive-book-summary/",
+      "datePublished": "2024-10-16T06:03:56",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/the-alignment-problem-machine-learning-and-human-values-comprehensive-book-summary/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/international-relations-jobs-your-guide-to-a-global-career/#article",
+      "headline": "International Relations Jobs: Your Guide to a Global Career",
+      "description": "Are you fascinated by world politics, diplomacy, and global issues? A career in international relations might be your ticket to making a real difference on the world stage! 🚀 In…",
+      "url": "https://aviperera.com/international-relations-jobs-your-guide-to-a-global-career/",
+      "datePublished": "2024-10-15T14:28:52",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/international-relations-jobs-your-guide-to-a-global-career/"
+    }
+  ]
+}
