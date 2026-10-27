@@ -22,6 +22,54 @@
     },
     {
       "@type": "TechArticle",
+      "@id": "https://aviperera.com/unitree-h1-h2/#article",
+      "headline": "Unitree H1 and H2",
+      "description": "A forensic analysis of Unitree’s H1 and H2 humanoid robots: specifications, PLA militarisation, UniPwn security flaws, FCC and Pentagon action, IHL and CCW talks.",
+      "url": "https://aviperera.com/unitree-h1-h2/",
+      "datePublished": "2026-10-27T05:26:28",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/unitree-h1-h2/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/is-trump-a-dictator-evidence-law-international-order/#article",
+      "headline": "Has Trump Become a Dictator? What the Evidence Shows, and What It Means for the World",
+      "description": "I test the dictator claims against law, history and 2026 evidence: the Xi visit, the UN speech, the Iran war, loneliness and propaganda.",
+      "url": "https://aviperera.com/is-trump-a-dictator-evidence-law-international-order/",
+      "datePublished": "2026-10-26T12:21:16",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/is-trump-a-dictator-evidence-law-international-order/"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aviperera.com/php2shell-ai-discovered-php-vulnerability/#article",
+      "headline": "PHP2Shell: How an AI-Assisted Discovery Pulled Governments Offline, and What It Means for Law and Global Security",
+      "description": "Two critical flaws in the engine behind roughly three-quarters of identifiable websites forced governments, hospitals and some financial services offline. I set out what happened, what is and is not k",
+      "url": "https://aviperera.com/php2shell-ai-discovered-php-vulnerability/",
+      "datePublished": "2026-10-23T10:11:12",
+      "author": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "publisher": {
+        "@id": "https://aviperera.com/#avi-perera"
+      },
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": "https://aviperera.com/php2shell-ai-discovered-php-vulnerability/"
+    },
+    {
+      "@type": "TechArticle",
       "@id": "https://aviperera.com/v-bat-mq-35/#article",
       "headline": "V-BAT (MQ-35)",
       "description": "Forensic analysis of Shield AI’s V-BAT (MQ-35): Hivemind autonomy, ViDAR sensor, targeting role, export, privacy law and international implications.",
@@ -760,7 +808,7 @@
       "@type": "TechArticle",
       "@id": "https://aviperera.com/p-s-killer-kamikaze-drone/#article",
       "headline": "P.S. Killer Kamikaze Drone",
-      "description": "P.S. Killer Kamikaze Drone The P.S. Killer Kamikaze (PSK) was developed by XDOWN, an American defense startup. The unmanned aerial system (UAS) is designed to be hand-thrown and is reportedly…",
+      "description": "P.S. Killer Kamikaze Drone (PSK): XDOWN’s Hand-Thrown Autonomous Loitering Munition The P.S. Killer (PSK) is a hand-thrown, one-way attack unmanned aerial system (UAS) developed by XDOWN Incorporated,",
       "url": "https://aviperera.com/p-s-killer-kamikaze-drone/",
       "datePublished": "2026-01-08T18:17:42",
       "author": {
@@ -904,7 +952,7 @@
       "@type": "TechArticle",
       "@id": "https://aviperera.com/anduril-altius-600/#article",
       "headline": "Anduril Altius 600",
-      "description": "Anduril Altius 600 Anduril’s Altius series features Unmanned Aerial Systems (UAS) with a “loitering munition” function. Altius systems can be operated together as a networked swarm, combining differen",
+      "description": "Forensic analysis of Anduril’s ALTIUS-600 and 600M: specifications, Lattice autonomy, Ukraine failures, Taiwan sales, IHL and the CCW talks.",
       "url": "https://aviperera.com/anduril-altius-600/",
       "datePublished": "2026-01-08T17:51:19",
       "author": {
@@ -1048,7 +1096,7 @@
       "@type": "TechArticle",
       "@id": "https://aviperera.com/anduril-roadrunner/#article",
       "headline": "Anduril Roadrunner",
-      "description": "Anduril Roadrunner Anduril Industries in the US has developed a reusable Unmanned Aerial System (UAS) called Roadrunner, alongside a faster Roadrunner-M option with heavier explosives. The system can ",
+      "description": "Forensic analysis of Anduril’s Roadrunner and Roadrunner-M: autonomy, Lattice, Kuwait sale, Iran war context, IHL and the CCW Review Conference.",
       "url": "https://aviperera.com/anduril-roadrunner/",
       "datePublished": "2026-01-08T17:25:48",
       "author": {
@@ -1352,7 +1400,7 @@
       "@type": "TechArticle",
       "@id": "https://aviperera.com/ai-ethics-case-studies-lessons-learned-from-real-world-failures/#article",
       "headline": "AI Ethics Case Studies: Lessons Learned from Real-World Failures",
-      "description": "Explore critical AI ethics case studies examining real-world failures, legal implications, and essential lessons for responsible AI development. Learn from historical mistakes to build better AI syste",
+      "description": "A Cambridge-educated researcher’s update on five AI failures and what the 2026 legal landscape means for them.",
       "url": "https://aviperera.com/ai-ethics-case-studies-lessons-learned-from-real-world-failures/",
       "datePublished": "2024-10-30T03:27:31",
       "author": {
@@ -1446,10 +1494,10 @@
     },
     {
       "@type": "TechArticle",
-      "@id": "https://aviperera.com/ethical-ai-in-recruitment-ensuring-fair-hiring-practices-in-2024/#article",
+      "@id": "https://aviperera.com/ethical-ai-in-recruitment-ensuring-fair-hiring-practices/#article",
       "headline": "Ethical AI in Recruitment: Ensuring Fair Hiring Practices",
-      "description": "As someone who’s spent years researching law and artificial intelligence, I’ve witnessed first-hand the remarkable transformation of recruitment practices. Back in 2020, I remember advising a FTSE 100",
-      "url": "https://aviperera.com/ethical-ai-in-recruitment-ensuring-fair-hiring-practices-in-2024/",
+      "description": "Hiring is where algorithmic decisions touch people’s livelihoods most directly, and in 2026 it is also where the law has moved fastest. In the last twelve months, the United Kingdom…",
+      "url": "https://aviperera.com/ethical-ai-in-recruitment-ensuring-fair-hiring-practices/",
       "datePublished": "2024-10-24T07:26:56",
       "author": {
         "@id": "https://aviperera.com/#avi-perera"
@@ -1458,7 +1506,7 @@
         "@id": "https://aviperera.com/#avi-perera"
       },
       "inLanguage": "en-GB",
-      "mainEntityOfPage": "https://aviperera.com/ethical-ai-in-recruitment-ensuring-fair-hiring-practices-in-2024/"
+      "mainEntityOfPage": "https://aviperera.com/ethical-ai-in-recruitment-ensuring-fair-hiring-practices/"
     },
     {
       "@type": "TechArticle",
@@ -1511,8 +1559,8 @@
     {
       "@type": "TechArticle",
       "@id": "https://aviperera.com/best-ai-regulatory-compliance-tools-for-businesses-2024/#article",
-      "headline": "Best AI Regulatory Compliance Tools for Businesses (2024)",
-      "description": "Discover the top AI regulatory compliance tools for 2024. Learn how to navigate complex AI regulations with cutting-edge solutions that keep your business compliant and competitive.",
+      "headline": "Best AI Regulatory Compliance Tools for Businesses (2026)",
+      "description": "A rewritten 2026 guide to AI governance and compliance tools, with the updated EU and US rules and an honest view of how to choose.",
       "url": "https://aviperera.com/best-ai-regulatory-compliance-tools-for-businesses-2024/",
       "datePublished": "2024-10-20T06:06:13",
       "author": {
@@ -1571,54 +1619,6 @@
       },
       "inLanguage": "en-GB",
       "mainEntityOfPage": "https://aviperera.com/finite-and-infinite-games-a-multidisciplinary-analysis/"
-    },
-    {
-      "@type": "TechArticle",
-      "@id": "https://aviperera.com/human-compatible-stuart-russell-book-summary-notes-highlights/#article",
-      "headline": "Human Compatible (Stuart Russell) – Book Summary, Notes & Highlights",
-      "description": "Dive into Human Compatible by Stuart Russell, an essential read on AI safety. Discover how to design AI systems that align with human values, ensuring they remain beneficial and under human control as",
-      "url": "https://aviperera.com/human-compatible-stuart-russell-book-summary-notes-highlights/",
-      "datePublished": "2024-10-16T07:11:19",
-      "author": {
-        "@id": "https://aviperera.com/#avi-perera"
-      },
-      "publisher": {
-        "@id": "https://aviperera.com/#avi-perera"
-      },
-      "inLanguage": "en-GB",
-      "mainEntityOfPage": "https://aviperera.com/human-compatible-stuart-russell-book-summary-notes-highlights/"
-    },
-    {
-      "@type": "TechArticle",
-      "@id": "https://aviperera.com/the-alignment-problem-machine-learning-and-human-values-comprehensive-book-summary/#article",
-      "headline": "The Alignment Problem (Brian Christian) – Book Summary, Notes & Highlights",
-      "description": "Discover The Alignment Problem by Brian Christian, a thought-provoking exploration of the ethical challenges in AI. Learn how misaligned AI objectives can have profound consequences, making this book ",
-      "url": "https://aviperera.com/the-alignment-problem-machine-learning-and-human-values-comprehensive-book-summary/",
-      "datePublished": "2024-10-16T06:03:56",
-      "author": {
-        "@id": "https://aviperera.com/#avi-perera"
-      },
-      "publisher": {
-        "@id": "https://aviperera.com/#avi-perera"
-      },
-      "inLanguage": "en-GB",
-      "mainEntityOfPage": "https://aviperera.com/the-alignment-problem-machine-learning-and-human-values-comprehensive-book-summary/"
-    },
-    {
-      "@type": "TechArticle",
-      "@id": "https://aviperera.com/international-relations-jobs-your-guide-to-a-global-career/#article",
-      "headline": "International Relations Jobs: Your Guide to a Global Career",
-      "description": "Are you fascinated by world politics, diplomacy, and global issues? A career in international relations might be your ticket to making a real difference on the world stage! 🚀 In…",
-      "url": "https://aviperera.com/international-relations-jobs-your-guide-to-a-global-career/",
-      "datePublished": "2024-10-15T14:28:52",
-      "author": {
-        "@id": "https://aviperera.com/#avi-perera"
-      },
-      "publisher": {
-        "@id": "https://aviperera.com/#avi-perera"
-      },
-      "inLanguage": "en-GB",
-      "mainEntityOfPage": "https://aviperera.com/international-relations-jobs-your-guide-to-a-global-career/"
     }
   ]
 }
